@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+            },
+            "author": "Meredith Deliso",
+            "title": "SpaceX planning Monday test flight of giant Starship rocket - ABC News",
+            "description": "The test window opens at 7 a.m. CT Monday, SpaceX said.",
+            "url": "https://abcnews.go.com/Technology/spacex-planning-monday-test-flight-giant-starship-rocket/story?id=98608491",
+            "urlToImage": "https://s.abcnews.com/images/US/spacex-starship-ap-jt-230415_1681580199064_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-04-16T16:05:58Z",
+            "content": "SpaceX is eyeing a Monday morning launch of its powerful Starship rocket -- which is expected to eventually carry passengers to the moon and Mars.\r\nThe uncrewed launch of the world's largest rocket w… [+1366 chars]"
+        },
+            {
+            "source": {
+            "id": null,
+            "name": "ESPN"
+            },
+            "author": null,
+            "title": "Yankees place Giancarlo Stanton (hamstring) on 10-day IL - ESPN",
+            "description": "The Yankees placed Giancarlo Stanton on the 10-day injured list after he felt an injury to his hamstring while running the bases.",
+            "url": "https://www.espn.com/mlb/story/_/id/36205678/yankees-place-giancarlo-stanton-hamstring-10-day-il",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0819%2Fr1050455_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-04-16T15:55:25Z",
+            "content": "The New York Yankees placed Giancarlo Stanton on the 10-day injured list with a left hamstring strain, the team announced Sunday.\r\nStanton was replaced by a pinch runner after hitting a two-run doubl… [+2148 chars]"
+        },
+        {
+            "source": {
+            "id": "cnn",
+            "name": "CNN"
+            },
+            "author": "Joe Sutton,Alex Medeiros,Chris Boyette,Holly Yan",
+            "title": "4 people are killed and others are injured after a mass shooting in Dadeville, Alabama - CNN",
+            "description": "A mass shooting left four people dead and others injured in downtown Dadeville, Alabama, state officials said.",
+            "url": "https://www.cnn.com/2023/04/16/us/dadeville-alabama-mass-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230416020030-01-dadeville-al-shooting-map.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-16T14:01:00Z",
+            "content": "A mass shooting left four people dead and others injured in downtown Dadeville, Alabama, state officials said. \r\nThe shooting happened just after 10:30 p.m. Saturday, the Alabama Law Enforcement Agen… [+922 chars]"
+        }
+
+    ]
+}
