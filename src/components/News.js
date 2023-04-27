@@ -12,7 +12,9 @@ export class News extends Component {
     category:'general',
     apikey:'bd64f3f05ed14e49bb0b6a801f362017'
   }
-  
+ 
+  // for  this comment  is what i am  making commit for it
+    
    static propTypes={
        country: PropTypes.string,
        pageSize:PropTypes.number,
