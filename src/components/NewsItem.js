@@ -13,7 +13,7 @@ const NewsItem =(props)=> {
           <img src={!imageUrl ? "https://www.deccanherald.com/sites/dh/files/articleimages/2023/04/17/file7pom2v9espj4zb50hsh-1209269-1681713285.jpg" : imageUrl} 
           className="card-img-top" alt="..." />
                 
-          <div className="card-body">
+          <div className="card-body" style={{backgroundColor:'#d5ebe3'}}>
           {/* <span className="badge bg-danger" style={{left:'1%'}}>{source}</span> */}
             <h5 className="card-title">{title}...  <span className="badge bg-success" style={{left:'1%'}}>{source}</span></h5>
             <p className="card-text">
